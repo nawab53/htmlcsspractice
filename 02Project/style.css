@@ -1,0 +1,44 @@
+* {
+  background-color: black;
+  color: aliceblue;
+}
+
+
+
+.papa{
+  height: 100vh;
+  width: 100vw;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.beta1{
+  position: relative;
+  bottom: 300px;
+  left: 250px;
+  
+}
+.beta2{
+  position: relative;
+  bottom: 100px;
+  right: 200px;
+}
+.beta3{
+  position: relative;
+  top: 150px;
+  right: 100px;
+
+
+}
+.beta4{
+  position: relative; 
+  bottom: 70px;
+  right: 300px;
+  
+
+}
+.beta5{
+  position: relative;
+  bottom: 100px;
+  right: 200px;
+}
